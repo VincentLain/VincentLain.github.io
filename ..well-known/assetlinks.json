@@ -1,9 +1,0 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.vincent.gpstrackerbars",
-    "sha256_cert_fingerprints":
-    ["D7:AA:DC:78:E6:07:C4:13:D3:A1:34:9F:49:52:E6:E7:0B:D3:DA:15:96:0E:D4:E1:99:F0:31:38:DD:5A:1B:AA"]
-  }
-}]
